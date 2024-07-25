@@ -1,4 +1,4 @@
-# [DE-Kursname hier eintragen]
+# Neuronale Netze in C/C++
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
