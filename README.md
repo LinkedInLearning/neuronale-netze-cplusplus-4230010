@@ -51,9 +51,9 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Name hier eintragen]**
+**Gerhard Stein**
 
-_[Berufsbezeichnung hier eintragen]_
+_Head of Product Development_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
 
