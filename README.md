@@ -42,7 +42,7 @@ Dieses Problem lösen Sie wie folgt:
 
 _Head of Product Development_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gerhard_stein) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dr-gerhard-stein) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/neuronale-netze-in-c-c-plus-plus
