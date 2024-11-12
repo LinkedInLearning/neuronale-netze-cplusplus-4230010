@@ -4,22 +4,12 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den 
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
+Neuronale Netze sind ein wesentlicher Bestandteil der künstlichen Intelligenz (KI), da sie die Funktionsweise des menschlichen Gehirns nachahmen und es ermöglichen, komplexe Muster und Zusammenhänge in Daten zu erkennen und zu lernen.<br><br>
 
-[Practice It: X | All Other [Project Mojo] Courses]
+In diesem LinkedIn Learning Kurs richtet sich der erfahrene Maschinenbau-ingenieur und Entwickler Dr. Gerhard Stein an fortgeschrittene C/C++-Entwickler:innen und erläutert, wie die einzelnen Disziplinen miteinander funktionieren und wie C++ zum Beispiele auch seine Vorteile gegenüber Python optimal nutzen kann. Am Ende des Kurses werden Sie eigene Netze bauen und bei Themen des Machine Learning mitreden können.
 
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
+Mit der Hilfe von praktischen Challenge/Solution-Einheiten am Ende der Kapitel können Sie ihr Wissen immer wieder überprüfen und Ihre Lösung mit der Ihres Trainers vergleichen.
 
-[Hands-On Introduction to X]
-
-Der beste Weg, eine Programmiersprache zu lernen, ist, sie in der Praxis anzuwenden. Deshalb ist dieser Kurs in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
-
-[Level Up (previously Code Challenges)] 
-
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. 
-Jede Folge der Code-Challenges-Serie bietet mindestens 12 praktische Übungen in verschiedenen Schwierigkeitsgraden, so dass Sie sich selbst herausfordern und das Gelernte festigen können. Schauen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie man einen Codespace einrichtet und zum Einsatz bringt. 
-
-[COURSEDESCRIPTION]
 
 ## Anleitung
 
@@ -44,10 +34,7 @@ Dieses Problem lösen Sie wie folgt:
 
 ## Installation
 
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+1. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
 
 ### Autor
 
@@ -55,8 +42,8 @@ Dieses Problem lösen Sie wie folgt:
 
 _Head of Product Development_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gerhard_stein) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/neuronale-netze-in-c-c-plus-plus
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQH5BYXZ2JqEvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730804082065?e=2147483647&v=beta&t=srsZDjjDIdLTbkD4ghgys2LrkJ2fbXh7uFOqhBI5izU
