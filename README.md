@@ -46,4 +46,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/neuronale-netze-in-c-c-plus-plus
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQH5BYXZ2JqEvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1730804082065?e=2147483647&v=beta&t=srsZDjjDIdLTbkD4ghgys2LrkJ2fbXh7uFOqhBI5izU
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGmvP-OSH1MyA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731415559840?e=2147483647&v=beta&t=YrFdDUCIkeAlFOGFMwFb_8EE3B47O9MbCqTEKxqsy-I
